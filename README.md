@@ -1,4 +1,4 @@
 # hello-world
 test repository
 
-I wanted to change the edit branch, what I am doing now.
+I wanted to change the "readme edit" branch, what I am doing now.
